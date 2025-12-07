@@ -1,3 +1,4 @@
+###    Daily Challenge: Dictionaries
 ## Challenge 1: Letter Index Dictionary 
 # Goal: Create a dictionary that stores the indices (number of the position) of each letter in a word provided by the user(input()).
 # Ask user for a word
